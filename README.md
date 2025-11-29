@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-A clean and responsive navbar user interface built using React and Tailwind CSS, designed to be reusable in real-world applications.
+A clean and responsive navbar user interface built using React and Tailwind CSS, designed to be reusable across web applications.
 
 ---
 
