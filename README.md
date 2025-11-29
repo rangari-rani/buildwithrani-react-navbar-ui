@@ -57,6 +57,9 @@ This module introduces a **two-layer e-commerce navbar** designed for clarity an
 
 ## 📂 Folder Structure
 
+<details>
+<summary><strong>📂 Click to view folder structure</strong></summary>
+
 ```tsx
 src/
 ├── App.tsx
@@ -112,6 +115,7 @@ src/
 │           ├── types.ts
 │           └── index.ts
 ```
+</details>
 
 ---
 
