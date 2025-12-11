@@ -25,14 +25,14 @@ A clean and responsive navbar user interface built using React and Tailwind CSS,
 ## 📸 Screenshots
 
 ### Desktop Views
-![Product List Page](https://github.com/rangari-rani/buildwithrani-react-ecommerce-ui/blob/fe2da1d3c5f6f41925d11477a1435760eadd07b0/01-navbar-ui/public/navbar-desktop.png)  
+![Navbar Desktop](https://github.com/rangari-rani/buildwithrani-react-navbar-ui/blob/585183ecf4d4eb92d0577e925972520602e7bcf9/public/navbar-desktop.png)  
 _Navbar_
 
 ### Mobile Views
 <p align="center">
-  <img src="https://github.com/rangari-rani/buildwithrani-react-ecommerce-ui/blob/fe2da1d3c5f6f41925d11477a1435760eadd07b0/01-navbar-ui/public/navbar-mobile2.png" alt="Mobile Product List" width="22%">
+  <img src="https://github.com/rangari-rani/buildwithrani-react-navbar-ui/blob/585183ecf4d4eb92d0577e925972520602e7bcf9/public/navbar-mobile1.png" alt="Mobile Navbar" width="22%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/rangari-rani/buildwithrani-react-ecommerce-ui/blob/fe2da1d3c5f6f41925d11477a1435760eadd07b0/01-navbar-ui/public/navbar-mobile1.png" alt="Mobile Product View" width="22%">
+  <img src="https://github.com/rangari-rani/buildwithrani-react-navbar-ui/blob/585183ecf4d4eb92d0577e925972520602e7bcf9/public/navbar-mobile2.png" alt="Mobile Navbar" width="22%">
 
 </p>
 _Mobile responsive design screenshots_
