@@ -16,9 +16,6 @@ A clean and responsive navbar user interface built using React and Tailwind CSS,
 - ⚛️ [**React.js (Vite)**](https://vitejs.dev/) – fast development setup with hot module reloading  
 - 🎨 [**Tailwind CSS**](https://tailwindcss.com/) – utility-first CSS framework for responsive design  
 - 🔷 [**TypeScript**](https://www.typescriptlang.org/) – static typing for reliability and scalability  
-- 🔄 [**React Router DOM**](https://reactrouter.com/en/main) – for navigation flow and route handling  
-- 🧩 [**React Icons**](https://react-icons.github.io/react-icons/) – for wishlist, cart, and profile icons  
-- 🎞️ [**Framer Motion**](https://www.framer.com/motion/) – for smooth dropdown and menu animations
   
 ---
 
