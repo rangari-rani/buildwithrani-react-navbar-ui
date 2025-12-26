@@ -7,7 +7,7 @@ A clean and responsive navbar user interface built using React and Tailwind CSS,
 
 ---
 
-## 🚀 Live Demo: [Try it on Vercel](https://buildwithrani-react-navbar-ui.vercel.app/)
+## 🚀 Live Demo: [Try it on Vercel](https://buildwithrani-react-navbar-module.vercel.app)
 
 ---
 
